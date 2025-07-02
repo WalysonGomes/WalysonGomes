@@ -27,7 +27,7 @@
   <a href="https://api.whatsapp.com/send?phone=5586995145103" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://www.instagram.com/walyson.web/" title="Instagram">
+  <a href="https://www.instagram.com/w4ly50n/" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
