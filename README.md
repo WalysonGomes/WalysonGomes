@@ -24,10 +24,6 @@
 </p>
 
 <p align="left">
-  <strong>Conceitos:</strong> APIs REST, Comunicação síncrona e assíncrona, Integração entre sistemas, Modelagem de domínio, Controle de estado, Segurança de aplicações backend
-</p>
-
-<p align="left">
   Entre em contato comigo:
 </p>
 
