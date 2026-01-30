@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  <strong>Backend & Infra:</strong> Spring Boot, Spring Security, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, React
+  <strong>Backend & Infra:</strong> Spring Boot, Spring Security, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, React, Angular
 </p>
 
 <p align="left">
