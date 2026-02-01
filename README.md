@@ -16,7 +16,7 @@
 </p>
 
 <p align="left">
-  <strong>Linguagens:</strong> Java, SQL, JavaScript, TypeScript
+  <strong>Principais linguagens:</strong> Java, SQL, JavaScript, TypeScript
 </p>
 
 <p align="left">
