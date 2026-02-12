@@ -6,13 +6,13 @@
      align="right">
 
 <p align="left"> 
-  Olá! Me chamo <strong>Walyson Gomes</strong> e atuo como <strong>Desenvolvedor Backend</strong>.<br>
+  Olá! Me chamo <strong>Walyson Gomes</strong> e atuo como <strong>Desenvolvedor de Software</strong>.<br>
   Trabalho no desenvolvimento de aplicações backend com foco em lógica de negócio, persistência de dados, segurança de APIs e comunicação entre sistemas.
 </p>
 
 <p align="left">
-  Tenho experiência prática na construção de APIs, integração de serviços, controle de estado, modelagem de domínio e padronização de ambientes de execução. 
-  Utilizo projetos próprios para aplicar conceitos de engenharia de software e arquitetura backend em cenários reais.
+  Tenho experiência prática na construção de APIs, integração de serviços, controle de estado, modelagem de domínio e padronização de ambientes de execução.
+Gosto de transformar ideias em sistemas funcionais, testando abordagens, medindo resultados e melhorando a arquitetura conforme o projeto cresce.
 </p>
 
 <p align="left">
