@@ -1,22 +1,27 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" 
-     alt="ilustração de um computador" 
+     alt="computer illustration" 
      min-width="380px" 
      max-width="380px" 
      width="380px" 
      align="right">
 
 <p align="left"> 
-  Olá! Me chamo <strong>Walyson Gomes</strong> e atuo como <strong>Desenvolvedor de Software</strong>.<br>
-  Trabalho no desenvolvimento de aplicações backend com foco em lógica de negócio, persistência de dados, segurança de APIs e comunicação entre sistemas.
+  Hi! I'm <strong>Walyson Gomes</strong>, a <strong>Software Developer</strong> and a <strong>Computer Science student</strong>.<br>
+  I build backend applications with a focus on business logic, data persistence, API security, and system integration.
 </p>
 
 <p align="left">
-  Tenho experiência prática na construção de APIs, integração de serviços, controle de estado, modelagem de domínio e padronização de ambientes de execução.
-Gosto de transformar ideias em sistemas funcionais, testando abordagens, medindo resultados e melhorando a arquitetura conforme o projeto cresce.
+  I have hands-on experience designing REST APIs, integrating services, managing state, modeling domain logic, and standardizing runtime environments.
+  I enjoy turning ideas into working systems by testing approaches, measuring results, and improving the architecture as the project evolves.
 </p>
 
 <p align="left">
-  <strong>Linguagens:</strong> Java, SQL, JavaScript, TypeScript
+  I'm especially interested in backend engineering, software architecture, security, and observability.
+  I'm always open to learning and sharing what I discover along the way.
+</p>
+
+<p align="left">
+  <strong>Languages:</strong> Java, SQL, JavaScript, TypeScript
 </p>
 
 <p align="left">
@@ -24,7 +29,7 @@ Gosto de transformar ideias em sistemas funcionais, testando abordagens, medindo
 </p>
 
 <p align="left">
-  Entre em contato comigo:
+  Feel free to reach out:
 </p>
 
 <p align="left">
