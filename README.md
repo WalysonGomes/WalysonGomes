@@ -6,8 +6,7 @@
      align="right">
 
 <p align="left"> 
-  Hey there!<br>
-  I'm <strong>Walyson Gomes</strong>, a <strong>Software Developer</strong> and a <strong>Computer Science student</strong>.<br>
+  Hey there! I'm <strong>Walyson Gomes</strong>, a <strong>Software Developer</strong> and a <strong>Computer Science student</strong>.<br>
   I build backend applications with a focus on business logic, data persistence, API security, and system integration.
 </p>
 
