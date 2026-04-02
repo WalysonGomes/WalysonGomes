@@ -7,7 +7,7 @@
 
 <p align="left"> 
   Hi! I'm <strong>Walyson</strong>, a <strong>Software Developer</strong> and a <strong>Computer Science student</strong>.<br>
-  I build backend applications with a focus on business logic, data persistence, API security, and system integration.
+  I build full applications with a focus on business logic, data persistence, API security, and system integration.
 </p>
 
 <p align="left">
@@ -21,11 +21,11 @@
 </p>
 
 <p align="left">
-  <strong>Languages:</strong> Java, SQL, JavaScript, TypeScript
+  <strong>Languages:</strong> Java, SQL, JavaScript, TypeScript, Python
 </p>
 
 <p align="left">
-  <strong>Backend & Infra:</strong> Spring Boot, Spring Security, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, React, Angular
+  <strong>Backend & Infra:</strong> Spring Boot, Spring Security, PostgreSQL, MySQL, MongoDB, Redis, Docker, Git, React, Angular, FastApi
 </p>
 
 <p align="left">
