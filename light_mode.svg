@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  font-family="ConsolasFallback,Consolas,monospace"
+  width="985px"
+  height="530px"
+  font-size="16px"
+>
+  <style>
+    @font-face {
+      src: local('Consolas'), local('Consolas Bold');
+      font-family: 'ConsolasFallback';
+      font-display: swap;
+      -webkit-size-adjust: 109%;
+      size-adjust: 109%;
+    }
+
+    .key {
+      fill: #953800;
+    }
+
+    .value {
+      fill: #0a3069;
+    }
+
+    .cc {
+      fill: #c2cfde;
+    }
+
+    text,
+    tspan {
+      white-space: pre;
+    }
+  </style>
+
+  <rect
+    width="985px"
+    height="530px"
+    fill="#f6f8fa"
+    rx="15"
+  />
+
+  <!-- Computer illustration -->
+  <image
+    x="18"
+    y="82"
+    width="345"
+    height="345"
+    preserveAspectRatio="xMidYMid meet"
+    href="assets/computer-illustration.png"
+  />
+
+  <!-- Profile information -->
+  <text x="390" y="30" fill="#24292f">
+
+    <tspan x="390" y="30">walyson@github</tspan>
+    <tspan> -————————————————————————————————————————————-</tspan>
+
+    <tspan x="390" y="50" class="cc">. </tspan>
+    <tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan>
+    <tspan class="value">Backend Developer</tspan>
+
+    <tspan x="390" y="70" class="cc">. </tspan>
+    <tspan class="key">Education</tspan>:<tspan class="cc"> ................. </tspan>
+    <tspan class="value">Computer Science</tspan>
+
+    <tspan x="390" y="90" class="cc">. </tspan>
+    <tspan class="key">Focus</tspan>:<tspan class="cc"> .......... </tspan>
+    <tspan class="value">Java 21, Spring Boot, REST APIs</tspan>
+
+    <tspan x="390" y="110" class="cc">. </tspan>
+
+    <tspan x="390" y="130" class="cc">. </tspan>
+    <tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan class="cc"> ...... </tspan>
+    <tspan class="value">Java 21, Spring Boot, Spring Security</tspan>
+
+    <tspan x="390" y="150" class="cc">. </tspan>
+    <tspan class="key">Stack</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ............ </tspan>
+    <tspan class="value">PostgreSQL, SQL, Flyway</tspan>
+
+    <tspan x="390" y="170" class="cc">. </tspan>
+    <tspan class="key">Stack</tspan>.<tspan class="key">Testing</tspan>:<tspan class="cc"> ........ </tspan>
+    <tspan class="value">JUnit, Mockito, Testcontainers</tspan>
+
+    <tspan x="390" y="190" class="cc">. </tspan>
+    <tspan class="key">Stack</tspan>.<tspan class="key">Tooling</tspan>:<tspan class="cc"> ... </tspan>
+    <tspan class="value">Docker, GitHub Actions, Maven, Git, OpenAPI</tspan>
+
+    <tspan x="390" y="210" class="cc">. </tspan>
+
+    <tspan x="390" y="230">- Engineering</tspan>
+    <tspan> -——————————————————————————————————————-</tspan>
+
+    <tspan x="390" y="250" class="cc">. </tspan>
+    <tspan class="key">Domain</tspan>:<tspan class="cc"> .............. </tspan>
+    <tspan class="value">Domain Modeling, Business Rules</tspan>
+
+    <tspan x="390" y="270" class="cc">. </tspan>
+    <tspan class="key">Reliability</tspan>:<tspan class="cc"> ........... </tspan>
+    <tspan class="value">Data Consistency, Idempotency</tspan>
+
+    <tspan x="390" y="290" class="cc">. </tspan>
+    <tspan class="key">Security</tspan>:<tspan class="cc"> .............. </tspan>
+    <tspan class="value">API Security, Access Control</tspan>
+
+    <tspan x="390" y="310" class="cc">. </tspan>
+    <tspan class="key">Integration</tspan>:<tspan class="cc"> ........... </tspan>
+    <tspan class="value">REST APIs, OpenAPI, API Gateway</tspan>
+
+    <tspan x="390" y="330" class="cc">. </tspan>
+
+    <tspan x="390" y="350">- Projects</tspan>
+    <tspan> -————————————————————————————————————————-</tspan>
+
+    <tspan x="390" y="370" class="cc">. </tspan>
+    <tspan class="key">Comanda</tspan>:<tspan class="cc"> ........... </tspan>
+    <tspan class="value">Multi-tenant SaaS · Java / Spring Boot</tspan>
+
+    <tspan x="390" y="390" class="cc">. </tspan>
+    <tspan class="key">Signal</tspan>:<tspan class="cc"> ............ </tspan>
+    <tspan class="value">API Gateway Platform · Java / Spring Boot</tspan>
+
+    <tspan x="390" y="410" class="cc">. </tspan>
+
+    <tspan x="390" y="430">- Contact</tspan>
+    <tspan> -—————————————————————————————————————————-</tspan>
+
+    <tspan x="390" y="450" class="cc">. </tspan>
+    <tspan class="key">Email</tspan>:<tspan class="cc"> .............. </tspan>
+    <tspan class="value">w4lysongomes@gmail.com</tspan>
+
+    <tspan x="390" y="470" class="cc">. </tspan>
+    <tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ........... </tspan>
+    <tspan class="value">walyson-gomes</tspan>
+
+    <tspan x="390" y="490" class="cc">. </tspan>
+    <tspan class="key">GitHub</tspan>:<tspan class="cc"> ............. </tspan>
+    <tspan class="value">WalysonGomes</tspan>
+
+  </text>
+</svg>
